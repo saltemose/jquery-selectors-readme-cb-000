@@ -18,3 +18,7 @@ function divSelector(){
   var divs = $('div.pics');
   return divs
 };
+
+function firstListItem(){
+  var item = $('ul.first')
+}
