@@ -20,5 +20,6 @@ function divSelector(){
 };
 
 function firstListItem(){
-  var item = $('ul:first')
-}
+  var item = $('ul:first');
+  return item
+};
