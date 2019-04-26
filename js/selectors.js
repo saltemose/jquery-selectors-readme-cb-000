@@ -20,6 +20,6 @@ function divSelector(){
 };
 
 function firstListItem(){
-  var item = $('ul[0].innerHTML');
+  var item = $('ul[0]'.innerHTML);
   return item
 };
